@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=d5e6f5&height=300&section=header&text=It's&nbsp;GyungA\'s&nbsp;Repo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=d5e6f5&height=300&section=header&text=렛츠~&nbsp;고경아!&fontSize=90)
 
 ### 기술
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GyungA&theme=swift)
