@@ -28,14 +28,14 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gga612)](https://solv
 <br>
 
 #### Career
-Pluglink - Backend Engineer Intern (6 months) 📍Seoul, South Korea (2022 ~ 2023)  
+[Pluglink](https://pluglink.kr/) - Backend Engineer Intern (6 months) 📍Seoul, South Korea (2022 ~ 2023)  
 
 <br>
 
 #### Education
-Chung-Ang University - Economics, Software & Venture 📍Seoul, South Korea (2019 ~ 2024)  
-Puil Foreign Language High School - English & Chinese 📍Busan, South Korea (2016 ~ 2019)  
-Elice Track Boot Camp - Cloud Based Backend Engineer Course 📍Seoul, South Korea (2023 ~ 2024)  
+[Chung-Ang University](https://www.cau.ac.kr/index.do) - Economics, Software & Venture 📍Seoul, South Korea (2019 ~ 2024)  
+[Puil Foreign Language High School](https://school.busanedu.net/puilschool-h) - English & Chinese 📍Busan, South Korea (2016 ~ 2019)  
+[Elice Track Boot Camp](https://elice.training/) - Cloud Based Backend Engineer Course 📍Seoul, South Korea (2023 ~ 2024)  
 
 <br>
 <br>
