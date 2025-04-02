@@ -39,8 +39,5 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gga612)](https://solv
 
 <br>
 <br>
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyungA&count_bg=%2389D7FF&title_bg=%23555555&icon=salesforce.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
